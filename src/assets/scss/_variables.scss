@@ -1,0 +1,18 @@
+$primary-color: rgb(250, 250, 250);
+
+// ligth theme
+$text-dark: hsl(200, 15%, 8%);
+$bg-white: hsl(0, 0%, 100%);
+$bg-light: rgb(250, 250, 250);
+$text-muted: hsl(0, 0%, 52%);
+
+// dark theme
+$text-white: hsl(0, 0%, 100%);
+$bg-dark: hsl(209, 23%, 22%);
+$bg-very-dark: hsl(207, 26%, 17%);
+
+$breakPoints: (
+    mobile: 375px,
+    medium: 720px,
+    desktop: 1440px
+);
